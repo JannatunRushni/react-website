@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-website/static/css/main.cfd70018.css",
+    "main.js": "/react-website/static/js/main.bb70caa3.js",
+    "static/media/img-18.jpg": "/react-website/static/media/img-18.b7b4fa2110f2224bb6a6.jpg",
+    "static/media/img-19.jpg": "/react-website/static/media/img-19.4a29c11f736ec51a3493.jpg",
+    "static/media/img-20.jpg": "/react-website/static/media/img-20.3bc09cbd4b87b39edee8.jpg",
+    "index.html": "/react-website/index.html",
+    "main.cfd70018.css.map": "/react-website/static/css/main.cfd70018.css.map",
+    "main.bb70caa3.js.map": "/react-website/static/js/main.bb70caa3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfd70018.css",
+    "static/js/main.bb70caa3.js"
+  ]
+}
